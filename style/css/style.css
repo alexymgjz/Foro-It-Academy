@@ -10853,12 +10853,14 @@ header .nav-link {
   border: 1px solid rgba(36, 17, 32, 0.691);
   border-radius: 10px;
   margin: 0.2em;
+  color: aliceblue;
 }
 header .nav-link:hover {
   background: #201c1e9d;
   box-shadow: 3px #1b0f1580;
   border: 1px solid #241120;
   border-radius: 10px;
+  color: aliceblue;
 }
 header .btn-outline-light {
   width: 90px;
